@@ -1,8 +1,17 @@
 {
     "name": "promptphp/intercept-support",
     "description": "Shared support utilities and configuration for Intercept middleware packages.",
+    "keywords": ["laravel", "ai", "middleware", "prompt", "prompt-injection", "security"],
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Ukam",
+            "email": "victorjohnukam@gmail.com",
+            "homepage": "https://github.com/veeqtoh",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^8.4",
         "illuminate/support": "^12.0|^13.0"
